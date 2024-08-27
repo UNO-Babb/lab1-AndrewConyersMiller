@@ -24,3 +24,8 @@ class TestFirstProgram(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+#FirstProgram.py
+#Name: Andrew Conyers Miller
+#Date: 8/27/24
+#Assignment: Lab 1
+#Purpose: To ask a user for their name, and calculate their birth year
